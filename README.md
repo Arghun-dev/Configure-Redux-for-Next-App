@@ -15,3 +15,9 @@ Then add your folder structure for `redux`
     │   ├── actions      
     │   └── types.js                
     └── ...
+
+`type.js`
+
+```js
+export const ADD_TODO = 'ADD_TODO'
+```
