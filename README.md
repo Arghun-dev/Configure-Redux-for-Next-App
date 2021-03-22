@@ -7,8 +7,11 @@ You need these 3 packages for redux to be added to the next app.
 
 Then add your folder structure for `redux`
 
-root
-  -redux
-    -reducers
-    -actions
-    -types.js
+
+    .
+    ├── ...
+    ├── redux        
+    │   ├── reducers        
+    │   ├── actions      
+    │   └── types.js                
+    └── ...
